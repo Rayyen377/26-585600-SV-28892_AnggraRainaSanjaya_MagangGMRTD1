@@ -1,0 +1,12 @@
+eyesdetection.py
+program.cpp
+soal2.cpp
+soal3.cpp
+test.cpp
+.venv/lib64
+.venv/pyvenv.cfg
+.venv/bin/python
+.venv/bin/python3
+.venv/bin/python3.10
+.vscode/launch.json
+.vscode/tasks.json
